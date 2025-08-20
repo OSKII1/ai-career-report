@@ -1,0 +1,11 @@
+{
+  "name": "ai-career-report",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "openai": "^4.55.0"
+  }
+}
